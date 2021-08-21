@@ -1,5 +1,6 @@
 # Create React App + Express.jsでHTTP通信
 Create React Appで作ったSPAからPOSTリクエストを送ると、Express.jsで建てたサーバに反映される。
+どちらかというとクライアント側のajax通信の練習用。
 
 ## 使い方
 各シェルで以下を実行
