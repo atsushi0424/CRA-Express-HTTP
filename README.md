@@ -1,3 +1,11 @@
+# Create React App + Express.jsでHTTP通信
+Create React Appで作ったSPAからPOSTリクエストを送ると、Express.jsで建てたサーバに反映される。
+
+## 使い方
+各シェルで以下を実行
+- サーバー側：`npm run serve`
+- クライアント側：`npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
