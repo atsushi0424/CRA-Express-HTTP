@@ -4,6 +4,8 @@ Create React Appで作ったSPAからPOSTリクエストを送ると、サーバ
 サーバにGETリクエストを送ると、SPA側に今までPOSTしたものがリストで表示される。
 どちらかというとクライアント側のajax通信の練習用。
 
+API通信用に、axiosを使用。
+
 ## 使い方
 各シェルで以下を実行
 - サーバー側：`npm run serve`
